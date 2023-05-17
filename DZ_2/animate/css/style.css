@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(to right, rgba(225, 255, 0, 0.658), rgb(36, 16, 212), yellow, green, red);
+}
+.container {
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+
+.big-circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 2px solid black;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.small-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+}
