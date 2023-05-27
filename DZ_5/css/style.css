@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: gray;
+}
+.wrapper > div {
+    display: flex;
+    flex-direction: column;
+}
+.usd {
+    margin-top: 50px;
+}
+.eur {
+    margin-top: 50px;
+}
+label {
+    font-style: 20px;
+}
+input {
+    padding: 10px 20px;
+}
