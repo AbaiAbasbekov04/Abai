@@ -1,0 +1,64 @@
+{
+    "product": [
+        {
+            "url":"img/img-1.jpg",
+            "name":"красовки мужские",
+            "price": 1900
+        },
+        {
+            "url":"img/img-2.jpg",
+            "name":"красовки топовые",
+            "price": 1500
+        },
+        {
+            "url":"img/img-3.jpg",
+            "name":"красовки новинка",
+            "price": 1890
+        },    
+        {
+            "url":"img/img-4.jpg",
+            "name":"красовки беговые",
+            "price": 990
+        },    
+        {
+            "url":"img/img-5.jpg",
+            "name":"тренды года мужские",
+            "price": 2550  
+        },    
+        {
+            "url":"img/img-6.jpg",
+            "name":"красовки спортивные",
+            "price": 1590
+        },    
+        {
+            "url":"img/img-7.jpg",
+            "name":"красовки топ качество",
+            "price": 2990
+        },    
+        {
+            "url":"img/img-8.jpg",
+            "name":"спорт ++",
+            "price": 2300
+        },     
+        {
+            "url":"https://basket-10.wb.ru/vol1559/part155915/155915287/images/c246x328/1.jpg",
+            "name":"красовка и киргизии",
+            "price": 2000
+        },     
+        {
+            "url":"https://basket-11.wb.ru/vol1613/part161369/161369778/images/c516x688/1.jpg",
+            "name":"кроссовки женские",
+            "price": 3999
+        },     
+        {
+            "url":"https://basket-10.wb.ru/vol1559/part155915/155915287/images/c516x688/1.jpg",
+            "name":"кроссовки летние",
+            "price": 4990
+        },     
+        {
+            "url":"https://basket-10.wb.ru/vol1431/part143186/143186306/images/c516x688/1.jpg",
+            "name":"кроссовки демисезон",
+            "price": 1700
+        }
+    ]
+}
